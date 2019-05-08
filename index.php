@@ -7,4 +7,6 @@
     $text = new Text();
 
     echo $text->sometext;
+    echo "<br>";
+    echo $text->newtext;
 ?>
