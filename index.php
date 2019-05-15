@@ -6,7 +6,7 @@
 
     $text = new Text();
 
-    echo $text->text1;
-    echo "<br>";
-    echo $text->text2;
+    echo $text->text1 . "<br>";
+    echo $text->text2 . "<br>";
+    echo $text->text3 . "<br>";
 ?>
