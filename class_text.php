@@ -2,8 +2,8 @@
 
     class Text {
         // Fields
-        var $sometext = "This is some text.";
-        var $newtext = "This is new text.";
+        var $text1 = "This is text one.";
+        var $text2 = "This is text two.";
     }
 
 ?>
