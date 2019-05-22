@@ -11,4 +11,6 @@
     echo $text->text3 . "<br>";
     echo  "<br>";
     echo $text->text5 . "<br>";
+    echo  "<br>";
+    echo $text->text7 . "<br>";
 ?>
