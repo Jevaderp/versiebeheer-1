@@ -4,7 +4,7 @@
     echo "Yeetus Deletus. <br> Some people just want to watch the world burn. <hr>";
 
 
-    $text = new Text();;
+    $text = new Text();
 
     echo $text->text1 . "<br>";
     echo $text->text2 . "<br>";
