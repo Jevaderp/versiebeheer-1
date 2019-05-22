@@ -6,6 +6,8 @@
         var $text2 = "This is text two.";
         var $text3 = "This is text three.";
         var $text4 = "This is text four on the new branch.";
+
+        var $text6 = "This is text six on the Underling branch.";
     }
 
 ?>

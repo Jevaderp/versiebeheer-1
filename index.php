@@ -10,4 +10,6 @@
     echo $text->text2 . "<br>";
     echo $text->text3 . "<br>";
     echo $text->text4 . "<br>";
+
+    echo $text->text6 . "<br>";
 ?>
